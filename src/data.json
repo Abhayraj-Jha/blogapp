@@ -1,0 +1,38 @@
+[
+    {
+        "mheading": "Title of vertical gallery",
+        "type": "Travel ",
+        "h1": "Joshua Tree Overnight Adventure",
+        "h1description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit voluptas inventore necessitatibus eaque enim vero.",
+        "timeline": "/ August 21 2017",
+        "h2": "Catch waves with an adventure guide",
+        "h2description": "Gujrat is vastly underrated and it's a mystery to us why the region isn't more well.",
+        "story": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam quasi iusto ad placeat blanditiis repellendus doloribus non illo eaque tempore?",
+        "image": "https://wallpapercave.com/wp/wp8347099.jpg"
+    },
+    {
+        "heading": "Taare Zameen Par review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Captain America review",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Your fitness guide is here",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Check out the latest tech news",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    },
+    {
+        "heading": "Explore wonders of the world",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit inventore Beatae.",
+        "timeline": "/ August 21 2017"
+    }
+]
